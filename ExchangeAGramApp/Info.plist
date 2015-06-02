@@ -36,6 +36,27 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>FacebookAppId</key>
+	<string>377383435790515</string>
+	<key>FacebookDisplayName</key>
+	<string>ExchangeAGranApp</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb377383435790515</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSLocationUsageDescription</key>
+	<string>ExchangeAGramApp would like to use your location</string>
+	<key>NSLocationWhenInUsageDescription</key>
+	<string>ExchangeAGramApp would like to use your location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>ExchangeAGramApp would like to use your location</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
